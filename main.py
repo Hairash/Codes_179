@@ -1,2 +1,2 @@
-print('Good luck, guys')
+print('Vse protiv Vani')
 
