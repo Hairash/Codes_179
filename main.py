@@ -1,1 +1,1 @@
-import BuildTools
+print('Vaadim is a lucker')
