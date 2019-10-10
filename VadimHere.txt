@@ -1,1 +1,2 @@
-hello всем
+﻿hello всем
+hello Vadim
