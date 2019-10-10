@@ -1,5 +1,4 @@
-import Vadim
 import Gorelov
+import Vadim
 print('Here will be your codes')
 print('Nice')
-#VADIM - CHEMPION, VSE V POMOIKU (KROPME PASHI)
