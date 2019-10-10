@@ -1,3 +1,2 @@
-import Vadim
-print('Here will be your codes')
-print('Nice')
+print('-Vanya')
+print('P.S.Веб дизайн круто')
