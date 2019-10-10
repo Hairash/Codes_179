@@ -1,2 +1,2 @@
-print('Vaadim is a lucker')
-#ГО ПЕРЕМИРИЕ
+print('-Vanya')
+print('P.S.Веб дизайн круто')
