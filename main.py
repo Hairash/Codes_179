@@ -1,2 +1,1 @@
-print('Vse protiv Vani')
-
+import BuildTools
