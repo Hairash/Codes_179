@@ -1,4 +1,4 @@
 from math import log10
 
 a = int(input())
-print(log10(a))
+print(log10(a) + 1)
