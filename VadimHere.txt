@@ -1,3 +1,8 @@
 ﻿hello всем
 hello Vadim
+<<<<<<< HEAD
 111
+=======
+
+hiiiii
+>>>>>>> d7ca6f62a204006cef66f85aadd8d980bb4682c7
