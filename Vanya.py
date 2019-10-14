@@ -1,1 +1,1 @@
-print("All is well")
+print("All is great")
